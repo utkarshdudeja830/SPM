@@ -1,0 +1,127 @@
+<mxfile host="app.diagrams.net" modified="2023-11-27T12:07:16.234Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="OKtGmRNkyVTV6DuxoPu-" version="22.1.4" type="device">
+  <diagram name="Page-1" id="3uf2tFlKC_HGWNV64AzZ">
+    <mxGraphModel dx="1306" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="idhL7WZ6x8NIe0HiFrMA-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="idhL7WZ6x8NIe0HiFrMA-1" target="idhL7WZ6x8NIe0HiFrMA-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="idhL7WZ6x8NIe0HiFrMA-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="idhL7WZ6x8NIe0HiFrMA-1" target="idhL7WZ6x8NIe0HiFrMA-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="idhL7WZ6x8NIe0HiFrMA-1" value="0. Project title: Automotive E-Commerce" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="10" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="idhL7WZ6x8NIe0HiFrMA-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="idhL7WZ6x8NIe0HiFrMA-2" target="idhL7WZ6x8NIe0HiFrMA-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="idhL7WZ6x8NIe0HiFrMA-2" value="1.Objective: to create a user friendly B-to-B Ecommerce website and application." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="250" y="90" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="idhL7WZ6x8NIe0HiFrMA-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="idhL7WZ6x8NIe0HiFrMA-3" target="idhL7WZ6x8NIe0HiFrMA-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="idhL7WZ6x8NIe0HiFrMA-3" value="2. Project Infrastructure: Cloud hosting services for backend and React.Js for the development of the application" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="730" y="90" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wtX-XkKm2r5t3cKBZYD_-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="idhL7WZ6x8NIe0HiFrMA-4" target="wtX-XkKm2r5t3cKBZYD_-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="idhL7WZ6x8NIe0HiFrMA-4" value="3. Project characteristics: The project will face a tight budget and timeline, but it is critical to ensure data privacy" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="210" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="idhL7WZ6x8NIe0HiFrMA-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="idhL7WZ6x8NIe0HiFrMA-5" target="idhL7WZ6x8NIe0HiFrMA-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="idhL7WZ6x8NIe0HiFrMA-5" value="5. Products and activities: Mobile app and website&amp;nbsp; user documentation and a detailed plan." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="460" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="idhL7WZ6x8NIe0HiFrMA-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="idhL7WZ6x8NIe0HiFrMA-11" target="idhL7WZ6x8NIe0HiFrMA-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="idhL7WZ6x8NIe0HiFrMA-11" value="6. Estimate Effort for each activity:&amp;nbsp;&lt;br&gt;Requirements analysis: 2 weeks&lt;br&gt;Front-End Development: 3 weeks&lt;br&gt;Back-End Development: 12 weeks" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="450" y="580" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="idhL7WZ6x8NIe0HiFrMA-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="idhL7WZ6x8NIe0HiFrMA-13" target="idhL7WZ6x8NIe0HiFrMA-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wtX-XkKm2r5t3cKBZYD_-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="idhL7WZ6x8NIe0HiFrMA-13" target="idhL7WZ6x8NIe0HiFrMA-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="idhL7WZ6x8NIe0HiFrMA-13" value="7. Risk assessment: Unexpected technical challenges and delays due to complexities." style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="450" y="700" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="idhL7WZ6x8NIe0HiFrMA-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="idhL7WZ6x8NIe0HiFrMA-15" target="idhL7WZ6x8NIe0HiFrMA-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="idhL7WZ6x8NIe0HiFrMA-15" value="8. Allocate resource&lt;br&gt;1. Resource Allocation Strategy: Budget, staffing, tech planning.&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. Scalability and Flexibility: Adaptable for growth, agility.&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3. Customer-Centric Approach: User satisfaction, robust support, excellence.&lt;/span&gt;s" style="whiteSpace=wrap;html=1;rounded=0;align=left;" parent="1" vertex="1">
+          <mxGeometry x="450" y="830" width="210" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="wtX-XkKm2r5t3cKBZYD_-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="idhL7WZ6x8NIe0HiFrMA-17" target="wtX-XkKm2r5t3cKBZYD_-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="idhL7WZ6x8NIe0HiFrMA-17" value="9. Execute Plan&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. Execute Plan: Implement strategy, action.&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. Implement Strategy: Carry out, actualize.&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3. Action: Put into motion, accomplish.&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;align=left;" parent="1" vertex="1">
+          <mxGeometry x="149" y="848.75" width="210" height="92.5" as="geometry" />
+        </mxCell>
+        <mxCell id="wtX-XkKm2r5t3cKBZYD_-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="wtX-XkKm2r5t3cKBZYD_-2" target="idhL7WZ6x8NIe0HiFrMA-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wtX-XkKm2r5t3cKBZYD_-2" value="4. Technology and Cloud platform selection: The website will be based on React.Js and Firebase will be used as Cloud platform." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="340" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wtX-XkKm2r5t3cKBZYD_-6" value="For Each Step" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="670" y="658" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wtX-XkKm2r5t3cKBZYD_-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="wtX-XkKm2r5t3cKBZYD_-7" target="idhL7WZ6x8NIe0HiFrMA-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wtX-XkKm2r5t3cKBZYD_-7" value="10. Lower-Level Planning&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. Lower-Level Planning: Tactical, detailed strategy.&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. Tactical: Specific, operational actions.&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3. Detailed Strategy: Precise, granular approach.&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="149" y="590" width="210" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="wtX-XkKm2r5t3cKBZYD_-9" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="530" as="sourcePoint" />
+            <mxPoint x="800" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wtX-XkKm2r5t3cKBZYD_-10" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="930" as="sourcePoint" />
+            <mxPoint x="380" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wtX-XkKm2r5t3cKBZYD_-11" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="930" as="sourcePoint" />
+            <mxPoint x="800" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wtX-XkKm2r5t3cKBZYD_-12" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="1010" as="sourcePoint" />
+            <mxPoint x="800" y="1010" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="590" y="1010" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wtX-XkKm2r5t3cKBZYD_-14" value="Review" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="240" y="448" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Sb7pkWHDEZ7-wlEnmZwb-1" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="1010" as="sourcePoint" />
+            <mxPoint x="380" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sb7pkWHDEZ7-wlEnmZwb-2" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="1010" as="sourcePoint" />
+            <mxPoint x="800" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
